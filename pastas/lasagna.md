@@ -1,7 +1,7 @@
 ## Lasagna Recipe
 From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 
-**Ingredients**
+*Ingredients*
 * 2 Tbsp olive oil
 * 1 large onion,(Optionally: 2 Carrots and 2 Celery) finely chopped
 * 3 lbs (1.5 kilo) minced (ground) beef
@@ -21,7 +21,7 @@ One small pan for the bechamel sauce (preferably non-stick)
 One large, deep pan for the ragu
 A sha
 
-**Procedure**
+*Procedure*
 
 1. Heat the olive oil in a heavy base or non-stick pan over a medium-high heat. If the oil browns, turn the heat down. 
 2. Add the onion and fry until golden brown
